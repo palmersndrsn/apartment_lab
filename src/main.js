@@ -4,7 +4,7 @@ var Person = require('./people/person.js'),
   Manager = require('./people/manager'),
   Tenat = require('./people/tenat');
 
-var Property = require('./property_types/property'),
+var Property = require('./property_types/Property'),
   Duplex = require('./property_types/duplex.js'),
   ApartmentBuilding = require('./property_types/apartment_building.js'), 
   TownHouse = require('./property_types/town_house.js');
